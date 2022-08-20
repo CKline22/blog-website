@@ -16,7 +16,7 @@ function Home () {
                     <Card.Img variant="top" src="holder.js/100px160" />
                         <Card.Body>
                             <Card.Title>Camping Adventures</Card.Title>
-                            <Card.Text></Card.Text>
+                            <Card.Text>From years of experience, and many trips. I have gathered many stories and tips.</Card.Text>
                         </Card.Body>
                     </Card>
                     </Col>
@@ -25,7 +25,7 @@ function Home () {
                     <Card.Img variant="top" src="holder.js/100px160" />
                         <Card.Body>
                             <Card.Title>Hiking Adventures</Card.Title>
-                            <Card.Text></Card.Text>
+                            <Card.Text>Hiking is a great way to explore, and enjoy the outdoors.</Card.Text>
                         </Card.Body>
                     </Card>
                     </Col>
@@ -36,7 +36,7 @@ function Home () {
                     <Card.Img variant="top" src="holder.js/100px160" />
                         <Card.Body>
                             <Card.Title>Photography</Card.Title>
-                            <Card.Text></Card.Text>
+                            <Card.Text>Check out all the photos taken on our adventures.</Card.Text>
                         </Card.Body>
                     </Card>
                     </Col>
@@ -45,7 +45,7 @@ function Home () {
                     <Card.Img variant="top" src="holder.js/100px160" />
                         <Card.Body>
                             <Card.Title>Travel</Card.Title>
-                            <Card.Text></Card.Text>
+                            <Card.Text>Finding new things is the best.</Card.Text>
                         </Card.Body>
                     </Card>
                     </Col>

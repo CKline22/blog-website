@@ -11,7 +11,7 @@ function Header () {
                 <Card>
                     <Card.Img src="/camping-tents-2.jpg"/>
                 </Card>
-                <Card>
+                <Card style={{backgroundColor: '#F5FBEF'}}>
                     <Card.Body>
                         <Card.Title>
                             Welcome to Our Blog!
