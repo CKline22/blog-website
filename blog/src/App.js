@@ -1,4 +1,5 @@
 import NavbarComponent from './components/Navbar';
+import Footer from './components/footer';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 //Pages
 import Home from './pages/homePage'
@@ -10,6 +11,8 @@ import './App.css';
 
 function App() {
   return (
+    <div className='App-container'>
+      <div className='content-wrap'>
     <Router>
       <NavbarComponent/>
       <Routes>
@@ -20,6 +23,9 @@ function App() {
         <Route path="/gear" element={<Gear/>}/>
       </Routes>
     </Router>
+    </div>
+    <Footer/>
+    </div>
   );
 }
 
