@@ -23,11 +23,10 @@ function Footer() {
             </ul>
           </div>
           <div className="col">
-            <h4>The Outdoors Blog INC</h4>
+            <h4>Contact Us</h4>
             <ul className="list-unstyled">
-              <li>(757)-123-4567</li>
-              <li>123 West River RD.</li>
-              <li>Moutain Town, Virginia 12345</li>
+              <li>Email: theOutdoorsBlog@gmail.com</li>
+              <li>Phone: (757-123-4567)</li>
             </ul>
           </div>
           <hr />

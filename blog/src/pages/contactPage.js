@@ -17,7 +17,7 @@ function Contact() {
               feed back
             </Card.Subtitle>
             <Card.Text>Phone: (757-123-4567)</Card.Text>
-            <Card.Text>Email: FakeEmail@gmail.com</Card.Text>
+            <Card.Text>Email: theOutdoorsBlog@gmail.com</Card.Text>
             <Card.Text>
               Address: 123 West River RD. Moutain Town, Virginia 12345
             </Card.Text>
