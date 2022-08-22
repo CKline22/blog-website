@@ -7,6 +7,8 @@ import About from "./pages/aboutPage";
 import Contact from "./pages/contactPage";
 import Explore from "./pages/explorePage";
 import Gear from "./pages/gearPage";
+import Login from "./pages/loginPage";
+import SignUp from "./pages/signupPage";
 import "./App.css";
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/signup" element={<SignUp />} />
             <Route path="/explore" element={<Explore />} />
             <Route path="/gear" element={<Gear />} />
           </Routes>
