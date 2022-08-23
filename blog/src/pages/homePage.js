@@ -12,7 +12,6 @@ function Home() {
         <Row xs={1} md={2}>
           <Col>
             <Card>
-              <Card.Img variant="top" src="la" />
               <Card.Body>
                 <Card.Title>Camping Adventures</Card.Title>
                 <Card.Text>
@@ -24,7 +23,6 @@ function Home() {
           </Col>
           <Col>
             <Card>
-              <Card.Img variant="top" src="holder.js/100px160" />
               <Card.Body>
                 <Card.Title>Hiking Adventures</Card.Title>
                 <Card.Text>
@@ -37,7 +35,6 @@ function Home() {
         <Row xs={1} md={2}>
           <Col>
             <Card>
-              <Card.Img variant="top" src="holder.js/100px160" />
               <Card.Body>
                 <Card.Title>Photography</Card.Title>
                 <Card.Text>
@@ -48,7 +45,6 @@ function Home() {
           </Col>
           <Col>
             <Card>
-              <Card.Img variant="top" src="holder.js/100px160" />
               <Card.Body>
                 <Card.Title>Travel</Card.Title>
                 <Card.Text>Finding new things is the best.</Card.Text>
